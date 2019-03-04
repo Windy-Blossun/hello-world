@@ -1,4 +1,6 @@
 # Creating co-authored commits on GitHub
+https://help.github.com/en/articles/creating-a-commit-with-multiple-authors
+
 After you've made changes in a file using the web editor on GitHub, you can create a co-authored commit by adding a `Co-authored-by`: trailer to the commit's message.
 
 1. Collect the name and email address for each co-author. If a person chooses to keep their email address private, you should use their GitHub-provided `no-reply` email to protect their privacy.
